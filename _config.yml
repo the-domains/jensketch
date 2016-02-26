@@ -1,0 +1,28 @@
+name: jensketch
+favicon: null
+layout_spectrum: 0.5884705579373986
+typography_spectrum: 0.3576671788468957
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7951852129772305
+  lightness: 0.44714958732947707
+  saturation: 0.8758855117484927
+  rhythmicContrast: 0.17145427409559488
+purpose: []
